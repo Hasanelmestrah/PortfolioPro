@@ -1,4 +1,5 @@
 import React from "react";
+import "./footer.css";
 
 const Footer = () => {
   return (
@@ -48,6 +49,9 @@ const Footer = () => {
             <i class="uil uil-github"></i>
           </a>
         </div>
+        <span className="footer__copy">
+          &#169; Hasan El-Mestrah , All rights reserved
+        </span>
       </div>
     </footer>
   );
