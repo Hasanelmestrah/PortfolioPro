@@ -5,7 +5,7 @@ const Contact = () => {
   return (
     <section className="contact section" id="contact">
       <h2 className="section__title">Get in Touch</h2>
-      <span className="section__subtitle">Contact ME</span>
+      <span className="section__subtitle">Contact Me</span>
 
       <div className="contact__container container grid">
         <div className="contact__content">
@@ -16,9 +16,11 @@ const Contact = () => {
               <i className="bx bx-mail-send contact__card-icon"></i>
 
               <h3 className="contact__card-title">E-mail</h3>
-              <span className="contact__card-data">Hasan@gmail.com</span>
+              <span className="contact__card-data">
+                Hasanelmestrah@gmail.com
+              </span>
               <a
-                href="mailto:examplemail@gmail.com.com"
+                href="mailto:hasanelmestrah@gmail.com"
                 className="contact__button">
                 Write me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
@@ -31,7 +33,7 @@ const Contact = () => {
               <h3 className="contact__card-title">Whatsapp</h3>
               <span className="contact__card-data">76702770</span>
               <a
-                href="https://api.whatsapp.com/send?phone=62214408789&text=Hello, more information!"
+                href="https://api.whatsapp.com/send?phone=96176702770&text=Hello, more information!"
                 className="contact__button">
                 Write me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
@@ -43,7 +45,7 @@ const Contact = () => {
 
               <h3 className="contact__card-title">Messenger</h3>
               <span className="contact__card-data">Messenger</span>
-              <a href="" className="contact__button">
+              <a href="#" className="contact__button">
                 Write me
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
               </a>
@@ -66,7 +68,7 @@ const Contact = () => {
             </div>
 
             <div className="contact__form-div">
-              <label className="contact__form-tag">mail</label>
+              <label className="contact__form-tag">E-Mail</label>
               <input
                 type="email"
                 name="email"

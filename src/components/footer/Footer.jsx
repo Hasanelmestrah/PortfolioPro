@@ -50,7 +50,7 @@ const Footer = () => {
           </a>
         </div>
         <span className="footer__copy">
-          &#169; Hasan El-Mestrah , All rights reserved
+          Copyright &#169; Hasan El-Mestrah , All rights reserved.
         </span>
       </div>
     </footer>
