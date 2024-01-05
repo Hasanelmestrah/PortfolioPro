@@ -8,7 +8,7 @@ export const projectsData = [
     id: 1,
     image: Work1,
     title: "Web design",
-    category: "web",
+    category: "Web",
   },
   {
     id: 2,
@@ -32,7 +32,7 @@ export const projectsData = [
     id: 5,
     image: Work5,
     title: "Web design",
-    category: "web",
+    category: "Web",
   },
 ];
 
@@ -41,7 +41,7 @@ export const projectsNav = [
     name: "all",
   },
   {
-    name: "web",
+    name: "Web",
   },
   {
     name: "app",
