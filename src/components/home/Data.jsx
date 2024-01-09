@@ -65,8 +65,11 @@ const Data = () => {
       </h3>
 
       <p className="home__description">
-        I'm creative designer based in New York, and I'm very passionate and
-        dedicated to my work.
+        Transforming Businesses at the Intersection of Code and Finance: Where
+        Innovation Meets Strategy. Experience Seamless Software Solutions,
+        Unlock Financial Potential, and Navigate Forex and Crypto Markets with
+        Technological Precision – Empowering Your Journey in the Digital
+        Frontier.
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello

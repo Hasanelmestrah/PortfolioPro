@@ -65,6 +65,7 @@
 /* active work */
 .active-work {
   background-color: var(--title-color);
+  color: var(--container-color);
 }
 
 /*=============== BREAKPOINTS ===============*/

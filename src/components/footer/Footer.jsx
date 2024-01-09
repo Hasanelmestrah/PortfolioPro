@@ -21,8 +21,8 @@ const Footer = () => {
           </li>
 
           <li>
-            <a href="#testimonials" className="footer__link">
-              Testimonials
+            <a href="#Divlopers.com" className="footer__link">
+              Divlopers
             </a>
           </li>
         </ul>
@@ -50,7 +50,7 @@ const Footer = () => {
           </a>
         </div>
         <span className="footer__copy">
-          Copyright &#169; Hasan El-Mestrah , All rights reserved.
+          Copyright &#169; 2024 Hasan El-Mestrah, All rights reserved.
         </span>
       </div>
     </footer>
