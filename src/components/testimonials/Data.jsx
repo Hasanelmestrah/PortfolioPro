@@ -6,29 +6,29 @@ export const Data = [
   {
     id: 1,
     image: Image1,
-    title: "the future",
+    title: "Development",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "We specialize in developing software solutions tailored to your business needs.",
   },
   {
     id: 2,
     image: Image2,
-    title: "Develop your bussnis",
+    title: "Marketing",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Increase engagement, streamline strategies, and see results without the fuss.",
   },
   {
     id: 3,
     image: Image3,
-    title: "For finance",
+    title: "Finance",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Gateway to crypto, forex, and stocks, where opportunities meet simplicity. Unlock a world of financial potential with us!",
   },
   {
     id: 3,
-    image: Image3,
-    title: "For finance",
+    image: Image2,
+    title: "Security",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "We've got your back when it comes to security. Your info is safe and sound with us at Divlopers. Simple, secure, and worry-free.",
   },
 ];

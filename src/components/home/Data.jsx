@@ -65,11 +65,10 @@ const Data = () => {
       </h3>
 
       <p className="home__description">
-        Transforming Businesses at the Intersection of Code and Finance: Where
-        Innovation Meets Strategy. Experience Seamless Software Solutions,
-        Unlock Financial Potential, and Navigate Forex and Crypto Markets with
-        Technological Precision – Empowering Your Journey in the Digital
-        Frontier.
+        Transforming your visions into captivating web experiences that
+        seamlessly blend innovation and precision. Let's shape your ideas into a
+        digital reality where creativity meets technical excellence, providing
+        you with a unique and powerful online presence
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello

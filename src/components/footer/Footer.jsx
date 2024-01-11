@@ -21,7 +21,7 @@ const Footer = () => {
           </li>
 
           <li>
-            <a href="https://Divlopers.com" className="footer__link">
+            <a href="#testimonials" className="footer__link">
               Divlopers
             </a>
           </li>
