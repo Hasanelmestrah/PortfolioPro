@@ -50,7 +50,10 @@ const Footer = () => {
           </a>
         </div>
         <span className="footer__copy">
-          Copyright &#169; 2024 Hasan El-Mestrah, All rights reserved.
+          &copy; 2024 Hasan El-Mestrah. Powered by{" "}
+          <a href="https://www.divlopers.com" target="_blank">
+            Divlopers
+          </a>
         </span>
       </div>
     </footer>
