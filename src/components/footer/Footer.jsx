@@ -1,4 +1,5 @@
 import React from "react";
+import { FaInstagram, FaXTwitter, FaGithub } from "react-icons/fa6";
 import "./footer.css";
 
 const Footer = () => {
@@ -21,8 +22,8 @@ const Footer = () => {
           </li>
 
           <li>
-            <a href="#testimonials" className="footer__link">
-              Divlopers
+            <a href="#services" className="footer__link">
+              Services
             </a>
           </li>
         </ul>
@@ -31,28 +32,37 @@ const Footer = () => {
           <a
             href="https://www.instagram.com/hasanelmestrah"
             className="home__social-icon"
-            target="_blank">
-            <i class="uil uil-instagram"></i>
+            target="_blank"
+            rel="noopener noreferrer">
+            <FaInstagram />
           </a>
 
           <a
             href="https://www.twitter.com/hasanelmestrah"
             className="home__social-icon"
-            target="_blank">
-            <i class="uil uil-twitter-alt"></i>
+            target="_blank"
+            rel="noopener noreferrer">
+            <FaXTwitter />
           </a>
 
           <a
             href="https://github.com/hasanelmestrah"
             className="home__social-icon"
-            target="_blank">
-            <i class="uil uil-github"></i>
+            target="_blank"
+            rel="noopener noreferrer">
+            <FaGithub />
           </a>
         </div>
         <span className="footer__copy">
-          &copy; 2024 Hasan El-Mestrah. Powered by{" "}
-          <a href="https://www.divlopers.com" target="_blank">
-            Divlopers
+          2024 &#169; Hasan El-Mestrah , All rights reserved .
+          <br />
+          Powered By
+          <a
+            href="https://www.divlopers.com"
+            target="_blank"
+            rel="noopener noreferrer">
+            {" "}
+            Divlopers{" "}
           </a>
         </span>
       </div>
