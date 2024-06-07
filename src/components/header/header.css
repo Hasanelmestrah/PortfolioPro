@@ -4,6 +4,8 @@
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
+  padding-top: 5px;
+  padding-bottom: 5px;
   background-color: var(--body-color);
 }
 .nav {
@@ -54,6 +56,7 @@
   .header {
     top: initial;
     bottom: 0;
+    padding: auto;
   }
   .nav {
     height: var(--header-height);

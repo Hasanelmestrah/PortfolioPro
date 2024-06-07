@@ -2,6 +2,7 @@ import React from "react";
 import "./skills.css";
 import Frontend from "./Frontend";
 import Backend from "./Backend";
+import Finance from "./Finance";
 const Skills = () => {
   return (
     <section className="skills section" id="skills">
@@ -10,6 +11,7 @@ const Skills = () => {
       <div className="skills__container container grid">
         <Frontend />
         <Backend />
+        <Finance />
       </div>
     </section>
   );

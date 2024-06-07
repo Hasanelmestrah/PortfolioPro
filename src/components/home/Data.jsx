@@ -65,8 +65,10 @@ const Data = () => {
       </h3>
 
       <p className="home__description">
-        I'm creative designer based in New York, and I'm very passionate and
-        dedicated to my work.
+        Transforming your visions into captivating web experiences that
+        seamlessly blend innovation and precision. Let's shape your ideas into a
+        digital reality where creativity meets technical excellence, providing
+        you with a unique and powerful online presence
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello
