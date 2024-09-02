@@ -54,8 +54,6 @@ const Data = () => {
             2000,
             "Trader",
             2000,
-            "Beast",
-            2000,
           ]}
           speed={50}
           className="text-accent"
