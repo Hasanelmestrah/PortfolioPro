@@ -7,21 +7,27 @@ const Social = () => {
       <a
         href="https://www.instagram.com/hasanelmestrah"
         className="home__social-icon"
-        target="_blank">
+        target="_blank"
+        rel="noopener noreferrer" // Add rel attribute
+      >
         <FaInstagram />
       </a>
 
       <a
         href="https://www.twitter.com/hasanelmestrah"
         className="home__social-icon"
-        target="_blank">
+        target="_blank"
+        rel="noopener noreferrer" // Add rel attribute
+      >
         <FaXTwitter />
       </a>
 
       <a
         href="https://github.com/hasanelmestrah"
         className="home__social-icon"
-        target="_blank">
+        target="_blank"
+        rel="noopener noreferrer" // Add rel attribute
+      >
         <FaGithub />
       </a>
     </div>
