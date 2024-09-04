@@ -4,8 +4,8 @@
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
   background-color: var(--body-color);
 }
 .nav {
@@ -19,6 +19,7 @@
 .nav__toggle {
   color: var(--title-color);
   font-weight: var(--font-medium);
+  font-size: x-large;
 }
 .nav__list {
   display: flex;
